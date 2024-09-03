@@ -93,6 +93,7 @@ Contact
 For any questions or inquiries, please reach out to:
 
 GitHub: github.com/arizvi-prog
-LinkedIn: linkedin/alisharizvii
+LinkedIn: linkedin.com/alisharizvii
+
 Thank you for checking out my e-commerce back end project!
 
